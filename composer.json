@@ -10,10 +10,6 @@
         "craft-plugin",
         "timestamp"
     ],
-    "support": {
-        "docs": "???",
-        "issues": "???"
-    },
     "license": "MIT",
     "authors": [
         {
@@ -41,7 +37,6 @@
         "schemaVersion": "1.0.0",
         "hasCpSettings": false,
         "hasCpSection": false,
-        "changelogUrl": "???",
         "class": "fieldwork\\timestamp\\Timestamp"
     }
 }
